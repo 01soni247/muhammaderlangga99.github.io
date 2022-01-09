@@ -1,0 +1,39 @@
+@media (max-width: 767.98px) {
+  /* about */
+  .about {
+    height: 80vh;
+  }
+
+  .point {
+    display: none;
+  }
+
+  /* aboutme */
+  .studied .col-md-4 {
+    display: none !important;
+  }
+
+  .studied ul li {
+    font-size: 0.7em;
+  }
+
+  /* introduction */
+  .project h1 {
+    margin-top: -40px;
+  }
+
+  /* skill */
+  .tools {
+    margin-top: 150px;
+  }
+
+  /* contact */
+  #contact p {
+    font-size: 1em;
+  }
+
+  /* form */
+  .form:hover {
+    box-shadow: rgba(0, 0, 0, 0.3) -4px 9px 25px -6px !important;
+  }
+}
